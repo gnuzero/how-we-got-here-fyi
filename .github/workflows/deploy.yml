@@ -1,4 +1,5 @@
 name: Deploy Hugo site to Pages
+# Builds the Hugo site and deploys it to GitHub Pages (custom domain from CNAME).
 
 on:
   push:
